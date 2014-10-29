@@ -30,7 +30,7 @@
                 <version>3.9.0-rc.1</version>
                 <configuration>
                     <sdk>
-                        <platform>19</platform>
+                        <platform>20</platform>
                     </sdk>
                     <deleteConflictingFiles>true</deleteConflictingFiles>
                     <undeployBeforeDeploy>true</undeployBeforeDeploy>
